@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Product List - TechPartsHub</title>
+<title>Product List - MyStore</title>
 <style>
 body {
 font-family: Arial, Helvetica, sans-serif;
@@ -81,7 +81,7 @@ N/A
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Product List - TechPartsHub</title>
+<title>Product List - MyStore</title>
 <style>
 body {
 font-family: Arial, Helvetica, sans-serif;
@@ -121,7 +121,7 @@ font-size: 11px;
 </head>
 <body>
 <div class="header">
-<h2>TechPartsHub - Product List</h2>
+<h2>MyStore - Product List</h2>
 <p>Generated on: {{ now()->format('F d, Y h:i A') }}</p>
 </div>
 <table>
